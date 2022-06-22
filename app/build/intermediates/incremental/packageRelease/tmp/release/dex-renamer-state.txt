@@ -1,0 +1,4 @@
+#Wed Jun 22 18:37:08 ICT 2022
+base.0=D\:\\AplikasiUas\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

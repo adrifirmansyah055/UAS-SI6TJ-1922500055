@@ -1,0 +1,14 @@
+ac/id/atmaluhur/mhs/aplikasiuas/RequestHandler.java
+ ac.id.atmaluhur.mhs.aplikasiuas.RequestHandler
+ac/id/atmaluhur/mhs/aplikasiuas/BuildConfig.java
+ ac.id.atmaluhur.mhs.aplikasiuas.BuildConfig
+ac/id/atmaluhur/mhs/aplikasiuas/DosenJsonPlaceHolderAPI.java
+ ac.id.atmaluhur.mhs.aplikasiuas.DosenJsonPlaceHolderAPI
+ac/id/atmaluhur/mhs/aplikasiuas/dosen2.java
+ ac.id.atmaluhur.mhs.aplikasiuas.dosen2
+ac/id/atmaluhur/mhs/aplikasiuas/EDosen.java
+ ac.id.atmaluhur.mhs.aplikasiuas.EDosen
+ ac.id.atmaluhur.mhs.aplikasiuas.EDosen$1tambahDosen
+ac/id/atmaluhur/mhs/aplikasiuas/MainActivity.java
+ ac.id.atmaluhur.mhs.aplikasiuas.MainActivity
+ ac.id.atmaluhur.mhs.aplikasiuas.MainActivity$1
